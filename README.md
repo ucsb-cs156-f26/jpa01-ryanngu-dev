@@ -1,13 +1,6 @@
 # jpa01-ryanngu-dev
 
-* TODO: Change the title of this README (above)
-  in the text `# STARTER-jpa01` above
-  to match the name of your repo, i. e., `jpa01-yourgithubid`, then delete
-  this TODO item.
-
-
 Deployed at: https://jpa01-ryanngu-dev.dokku-12.cs.ucsb.edu/
-
 
 # About this repo
 
